@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
 ## Install
-Clone the project and run "npm install" to install the required node modules.
+Clone the project and run "npm install" in the root app directory to install the required dependencies.
 
 ## Development server
 
